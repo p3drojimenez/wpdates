@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalunya-do>
+	<denomination>
+		<id>1</id>
+		<doname>DO Alella</doname>
+		<council-address>
+			<name>Consell Regulador de la Denominació d'Origen Alella</name>
+			<postal-address>Masia Museu Can Magarola. Av. Sant Mateu, 2</postal-address>
+			<cp>08328</cp>
+			<town>Alella</town>
+			<province>Barcelona</province>
+			<email>doalella@doalella.org</email>
+			<web>http://www.doalella.org</web>
+		</council-address>
+		<description> Between tradition and urbanity, Alella's vineyards are blessed by the sea breeze, between land and endangered islands in a soles that allow for good drainage and retain solar radiation.
+A full Mediterranean climate on the part near the beach converts the inland band into a more continental microclimate. The Litoral mountain range slows down the winds and condenses the sea's humidity.
+This small area has historically provided the wine market of Barcelona, and for centuries has presided over the tables of Barcelona's well-wishers.
+The white wines are the most characteristic of Alella, dry or sweets, made with a sum of different varieties. They are lights, perfumed and crystalline. The white grape stands out, sometimes shaded with chardonnay o White Sauvignon.
+The pinks are fresh, aromatic and pleasant. They are made with Grenache, pink bread and merlot.
+The Red wines are fruity and softy, and are made with cabernet sauvignon, Ull de llebre - Tempranillo and merlot.
+		</description>
+		<vineyard-area measure="ha">227.50</vineyard-area>
+		<registered-winegrowers>46</registered-winegrowers>
+		<registered-wineries total="9">
+			<winery>Alella Vinícola</winery>
+			<winery>Alta Alella</winery>
+			<winery>Bouquet d'Alella</winery>
+			<winery>Can Roda</winery>
+			<winery>Celler de les Aus</winery>
+			<winery>Joaquim Batlle</winery>
+			<winery>Raventós d'Alella</winery>
+			<winery>Serralada de Marina</winery>
+			<winery>Roura</winery>
+		</registered-wineries>
+		<production measure="hl">4495.67</production>
+		<varieties>
+			<whites>
+				<variety>Xarelo</variety>
+				<variety>Chardonnay</variety>
+				<variety>Chenin</variety>
+				<variety>White Grenache</variety>
+				<variety>Macabeo</variety>
+				<variety>Malvasia</variety>
+				<variety>Little grape muscatel</variety>
+				<variety>Parellada</variety>
+				<variety>White Picapoll</variety>
+				<variety>White Sauvignon</variety>
+			</whites>
+			<reds>
+				<variety>Cabernet sauvignon</variety>
+				<variety>Hairy Grenache</variety>
+				<variety>Red Grenache</variety>
+				<variety>Merlot</variety>
+				<variety>Monastrell</variety>
+				<variety>Pinot noir</variety>
+				<variety>Carignan</variety>
+				<variety>Red Sumoll</variety>
+				<variety>Syrah</variety>
+				<variety>Ull de llebre - Tempranillo</variety>
+			</reds>
+		</varieties>
+		<conditions tipus="url">http://incavi.gencat.cat/web/.content/or_organismes/or01_incavi/or01_02_denominacions_origen/documents/fitxers_estatics/dop_alella_pliegocondiciones.pdf</conditions>
+	</denomination>
+	<denomination>
+		<id>2</id>
+		<doname>DO Catalunya</doname>
+		<council-address>
+			<name>Consell Regulador de la Denominació d'Origen Catalunya</name>
+			<postal-address>Passeig Sunyer, 4-6</postal-address>
+			<cp>43202 </cp>
+			<town>Reus</town>
+			<province>Tarragona</province>
+			<email>premsa@do-catalunya.com</email>
+			<web>http://www.do-catalunya.com</web>
+		</council-address>
+		<description>The wine forms part of the tradition and history of Catalonia. As much for geography as for climate, there is a multiform diversity in its wines that finds in human action a unity that distinguishes it.
+The common varieties make up the identity of this Denomination of Origin that extends well into the wine region of our country.
+The DO Catalunya is defined by the will to promote quality and increase commercialisation options, with a mention that is synonymous with good faith in the main international markets.
+The diversity of authorised root varieties favours experimentation, both in the field and in the cellar. For this reason, the DO Catalunya is considered an innovative Denomination of Origin.
+There are powerful Red wines, with a frank and intense aroma, very balanced. White wines are, in general, very fruity. Pinks and traditional liqueurs, mistels and natural sweets complete the offer of this DO.
+		</description>
+		<vineyard-area measure="ha">43655</vineyard-area>
+		<registered-winegrowers>14603</registered-winegrowers>
+		<registered-wineries total="211">
+			<winery>Agrícola Bonmas i Secció de Crèdit, SCCL</winery>
+			<winery>Aceites Escoda, CB</winery>
+			<winery>Agrícola Casa Sala, SA – Masia La Freixeneda</winery>
+			<winery>Agrícola de Corbera d’Ebre, SCCL</winery>
+			<winery>Agrícola de Garriguella, SCCL</winery>
+			<winery>Agrícola de la Conca i SC, SCCL</winery>
+			<winery>Agrícola de Vallmoll, SCCL</winery>
+			<winery>Agrícola Fuster, SL</winery>
+			<winery>Agrícola Hortons, SL</winery>
+			<winery>Agrícola i CA i SC de Bràfim, SCCL</winery>
+			<winery>Agrícola i SC de Sant Isidre de Vilabella, SCCL</winery>
+			<winery>Agrícola i SC d’Albinyana, SCCL</winery>
+			<winery>Agrícola i Secció de Crèdit de Montbrió del Camp, SCCL</winery>
+			<winery>Agrícola i Secció de Crèdit de Salomó, SCCL</winery>
+			<winery>Agrícola i Secció de Crèdit La Ginesta, SCCL</winery>
+			<winery>Agrícola i Secció de Crèdit Rodonyà, SCCL</winery>
+			<winery>Agrícola Sant Salvador d’Horta, SCCL</winery>
+			<winery>Agrícola Sant Vicenç, SL</winery>
+			<winery>Agropecuària i SC d'Artesa de Segre, SCCL</winery>
+			<winery>Agrupació de Viticultors Artesanals, SL</winery>
+			<winery>Agrupació Viticultors Artesanals, SL</winery>
+			<winery>Albet i Noya, SL</winery>
+			<winery>Alta Alella 3000, SL</winery>
+			<winery>Alta Alella, SL</winery>
+			<winery>Anguera Asens – Vinyes d’En Gabriel</winery>
+			<winery>Apiaria Vinya i Celler, SCP</winery>
+			<winery>Asbial Terms, SL</winery>
+			<winery>Barcelona Mediterranean Wine, SL</winery>
+			<winery>Baronia d’Entença, SL</winery>
+			<winery>Batevins, SL</winery>
+			<winery>Batlle Barrabeig, Salvador – Còsmic Celler</winery>
+			<winery>Bell Empordà, SL</winery>
+			<winery>Bellaterra Wines, SL</winery>
+			<winery>Blancher Capdevila Pujol, SA</winery>
+			<winery>Bodega El Grial, SL</winery>
+			<winery>Bodega Lolailo, SL</winery>
+			<winery>Bodega Los Rosales, SL</winery>
+			<winery>Bodegas 1898 S.L.</winery>
+			<winery>Bodegas Concavins</winery>
+			<winery>Bodegas Cortiella, SA</winery>
+			<winery>Bodegas Costers del Sió, SL</winery>
+			<winery>Bodegas Jaume Serra, SL</winery>
+			<winery>Bodegas Montserrat, SA</winery>
+			<winery>Bodegas Pedro Masana, SA</winery>
+			<winery>Bodegas Pinord, SA</winery>
+			<winery>Bodegas Puiggrós, SL</winery>
+			<winery>Bodegas Romo, SL</winery>
+			<winery>Bodegas Trobat, SA</winery>
+			<winery>Bodegues Visendra, SCP</winery>
+			<winery>Bona Estada 2000, SL</winery>
+			<winery>Boscos Catalans, SL</winery>
+			<winery>Cabré Beltran, Josep</winery>
+			<winery>Can Bonastre Wine Resort, SL</winery>
+			<winery>Can Descregut, SL</winery>
+			<winery>Can Dez Mas, SL</winery>
+			<winery>Car Vinícolas Reunidas, SA</winery>
+			<winery>Castell del Remei, SL</winery>
+			<winery>Castell d’Age, SA</winery>
+			<winery>Castell d’Or, SL</winery>
+			<winery>Castellví Agut, Jordi</winery>
+			<winery>Castelo de Pedregosa, SL</winery>
+			<winery>Catalan Vins, SAU</winery>
+			<winery>Cavas del Ampurdán, SA</winery>
+			<winery>Cavas del Castillo de Perelada, SA</winery>
+			<winery>Celler Agrícola i SC de Bellvei del Penedès, SCCL</winery>
+			<winery>Celler Cal Costas, SL</winery>
+			<winery>Celler Can Pagès, SL</winery>
+			<winery>Celler Cooperatiu de Moja, SCCL</winery>
+			<winery>Celler Cooperatiu de Salelles, SCCL</winery>
+			<winery>Celler Cooperatiu Gandesa, SCCL</winery>
+			<winery>Celler Cooperatiu i SC de R.L. Sant Miquel de Batea, SCCL</winery>
+			<winery>Celler Cooperatiu i SC de Vila-Rodona, SCCL</winery>
+			<winery>Celler de Capçanes i SC, SCCL</winery>
+			<winery>Celler de les Aus, SCP</winery>
+			<winery>Celler de Viticultors SAT CAT 22</winery>
+			<winery>Celler Dubos, SL</winery>
+			<winery>Celler Josep Piñol, SA</winery>
+			<winery>Celler Lagravera, SLU</winery>
+			<winery>Celler Masroig i SC SCCL</winery>
+			<winery>Celler Porta de l'Albera, SL</winery>
+			<winery>Celler Ronadelles, SL</winery>
+			<winery>Celler Serra, SL</winery>
+			<winery>Celler Torres Sanui, SL</winery>
+			<winery>Cellers Camp de Tarragona, SL</winery>
+			<winery>Cellers de l’Arboç i Secció de Crèdit, SCCL</winery>
+			<winery>Cellers Domenys i SC, SCCL</winery>
+			<winery>Cellers Mariol, SL</winery>
+			<winery>Cellers Most Doré, S.L.</winery>
+			<winery>Cellers Tarroné, SL</winery>
+			<winery>Cellers Triada, SL</winery>
+			<winery>Centre Vinícola del Penedès, SCCL</winery>
+			<winery>Clos Pisarra, SL</winery>
+			<winery>Clos Tredos, SL</winery>
+			<winery>Codorniu , SA - Caves Codorniu</winery>
+			<winery>Codorniu, SA</winery>
+			<winery>Cooperativa Agrícola de Barberà, SCCL</winery>
+			<winery>Cooperativa Agrícola de Falset-Marçà, SCCL</winery>
+			<winery>Cooperativa Agrícola de l’Argilaga, SCCL</winery>
+			<winery>Cooperativa Agrícola i CA Llorenç del Penedès, SCCL</winery>
+			<winery>Cooperativa Agrícola i SC Terra Alta, SCCL</winery>
+			<winery>Cooperativa Agrícola La Serra d'Almos, SCCL</winery>
+			<winery>Cooperativa Agrícola Mollet de Peralada, SCCL</winery>
+			<winery>Cooperativa Agrícola Sant Isidre de Nulles, SCCL</winery>
+			<winery>Cooperativa Agrícola Sant Jaume de Benissanet, SCCL</winery>
+			<winery>Cooperativa Agrícola Sant Josep, SCCL</winery>
+			<winery>Cooperativa Vinícola del Penedès, SCCL</winery>
+			<winery>Covica Empordà, SL</winery>
+			<winery>Covilalba, SCCL</winery>
+			<winery>Dalmau Hermanos y Cía. Suc., SA</winery>
+			<winery>De Muller, SA</winery>
+			<winery>Ecovitres, SL</winery>
+			<winery>El Celler d'En Marc, SL</winery>
+			<winery>El Mas Pujó, SA</winery>
+			<winery>Empordàlia, SCCL</winery>
+			<winery>Esmel, SCP</winery>
+			<winery>Espelt Viticultors, SL</winery>
+			<winery>Exporústic Empordà, SL – Terra Remota</winery>
+			<winery>Fabra Carreras, Martí</winery>
+			<winery>Fermí Bohigas, SA</winery>
+			<winery>Gassificats Cetro, SL</winery>
+			<winery>Gerpita, SL - Vinya l'Hereu Seró</winery>
+			<winery>Gonzalez Byass, SA</winery>
+			<winery>Hospital Sant Joan Baptista</winery>
+			<winery>J. García Carrión, SA - Celler La Bleda</winery>
+			<winery>J.B. Berger, SA</winery>
+			<winery>Jané Baqués, SL</winery>
+			<winery>Jané Ventura, SA</winery>
+			<winery>Joan Sardà, SA</winery>
+			<winery>Josep Masachs, SL</winery>
+			<winery>La Planeta – Comalats, SL</winery>
+			<winery>La Vinícola de Gandesa, SL</winery>
+			<winery>La Xarmada, SCCL</winery>
+			<winery>Lafou Celler, SL</winery>
+			<winery>Lluch Molinari, Pere</winery>
+			<winery>L’Olivera, SCCL</winery>
+			<winery>L’Olivera, SCCL – Can Calopa</winery>
+			<winery>Marqués de Monistrol, SA</winery>
+			<winery>Mas Bertan Viticultors, SL</winery>
+			<winery>Mas Gil, SLU</winery>
+			<winery>Mas Llunes, Vinyes i Cellers, SL</winery>
+			<winery>Mas Olivares &amp; Pago Diana, SL</winery>
+			<winery>Masia Can Mayol, SL</winery>
+			<winery>Masia Romagosa, SL</winery>
+			<winery>Masia Vallformosa, SL</winery>
+			<winery>Més que Paraules</winery>
+			<winery>Miguel Torres, SA</winery>
+			<winery>Milà Mallofré, Albert</winery>
+			<winery>Mont Marçal Vinícola, SA</winery>
+			<winery>MQP Celler, SL</winery>
+			<winery>Octer, SL</winery>
+			<winery>Oliveda, SA</winery>
+			<winery>Pedrola Segarra, Mª Pilar</winery>
+			<winery>Pere Guardiola, SL</winery>
+			<winery>Pere Ventura i Família, SL</winery>
+			<winery>Pérez Roura, Juan Antonio</winery>
+			<winery>Pons Tradició, SL –  Clos Pons</winery>
+			<winery>Raventós Rosell, SL</winery>
+			<winery>René Barbier, SAU</winery>
+			<winery>Rosell Mir, Josep Mª</winery>
+			<winery>Rústic Resort, SL</winery>
+			<winery>Sanchez Ortiz, Antoni (Vinyes del Solà d'Ares)</winery>
+			<winery>SAT 1005 Vall del Riu</winery>
+			<winery>SAT 1005 Vall del Riu - Llobet de Valldeperes</winery>
+			<winery>SAT 4768 Masies d’Avinyó, Ltda.</winery>
+			<winery>SAT n. 4768  Masies d´Avinyó, LTDA</winery>
+			<winery>Saumell Calaf, Josep Mª</winery>
+			<winery>Segura Viudas, SAU</winery>
+			<winery>Sucesores de F. Masens, SA</winery>
+			<winery>Tomàs Cusiné, SLTomàs Cusiné, SL</winery>
+			<winery>Torre Marimon – IRTA</winery>
+			<winery>U mes u fan tres, SL</winery>
+			<winery>Unió Cellers del Noya, SA</winery>
+			<winery>Unió Corporació Alimentària, SCCL</winery>
+			<winery>Unió Fruits, SCCL</winery>
+			<winery>Unió Fruits, SCCL - Masllorenç</winery>
+			<winery>URV - Mas del Frares</winery>
+			<winery>Vidal Morgades, Ramón</winery>
+			<winery>Vilanova Valén, Antonio</winery>
+			<winery>Viña Tridado, SL</winery>
+			<winery>Vinícola de Sarral i Secció de Crèdit, SCCL</winery>
+			<winery>Vinícola del País, SAU</winery>
+			<winery>Vinos Padró, SL</winery>
+			<winery>Vins Algars, SAT</winery>
+			<winery>Vins del Massís, SL</winery>
+			<winery>Vins Font, S. A.</winery>
+			<winery>Vins Grau, SL</winery>
+			<winery>Vins Pravi, SL</winery>
+			<winery>Vinya els Vilars, SL</winery>
+			<winery>Vinyes del Terrer, SL</winery>
+			<winery>Vitalpe, SAT</winery>
+			<winery>Viticultors Bateans, SCCL</winery>
+			<winery>Viver de Celleristes de la Conca de Barberà - Costador Terroirs Mediterranis, SL</winery>
+			<winery>Viver de Celleristes de la Conca de Barberà - Round Village, SL</winery>
+			<winery>Xavier de Tudó Vives</winery>
+		</registered-wineries>
+		<production measure="hl">480102</production>
+		<varieties>
+			<whites>
+				<variety>Albarinho</variety>
+				<variety>Chardonnay</variety>
+				<variety>White Chenin</variety>
+				<variety>White Grenache</variety>
+				<variety>Gewurztraminer</variety>
+				<variety>Macabeo</variety>
+				<variety>Malvasia</variety>
+				<variety>Malvasia de Sitges</variety>
+				<variety>Big grape muscatel</variety>
+				<variety>Little grape muscatel</variety>
+				<variety>Parellada</variety>
+				<variety>Pedro Ximénez</variety>
+				<variety>White Picapoll</variety>
+				<variety>Riesling</variety>
+				<variety>White Sauvignon</variety>
+				<variety>Subirant parent</variety>
+				<variety>White Sumoll</variety>
+				<variety>Vinyater</variety>
+				<variety>Viognier</variety>
+				<variety>Xarelo</variety>
+			</whites>
+			<reds>
+				<variety>Cabernet franc</variety>
+				<variety>Cabernet sauvignon</variety>
+				<variety>Hairy Grenache</variety>
+				<variety>Red Grenache </variety>
+				<variety>Tinting Grenache</variety>
+				<variety>Merlot</variety>
+				<variety>Monastrell</variety>
+				<variety>Small verdot</variety>
+				<variety>Red Picapoll</variety>
+				<variety>Pinot noir</variety>
+				<variety>Carignan</variety>
+				<variety>Red Sumoll</variety>
+				<variety>Syrah</variety>
+				<variety>Trepat</variety>
+				<variety>Ull de llebre - Tempranillo</variety>
+			</reds>
+		</varieties>
+		<conditions tipus="url">http://incavi.gencat.cat/web/.content/or_organismes/or01_incavi/or01_02_denominacions_origen/documents/fitxers_estatics/dop_catalunya_pliegocondiciones.pdf</conditions>
+	</denomination>
+	<denomination>
+		<id>3</id>
+		<doname>DO Conca de Barberà</doname>
+		<council-address>
+			<name>Consell Regulador de la Denominació d'Origen Conca de Barberà</name>
+			<postal-address>Torre del Portal de Sant Antoni c/ de la Volta, 2</postal-address>
+			<cp>43400</cp>
+			<town>Montblanc</town>
+			<province>Tarragona</province>
+			<email>cr@doconcadebarbera.com</email>
+			<web>http://www.doconcadebarbera.com</web>
+		</council-address>
+		<description>
+		The Abbey of Poblet and the Orde of Templars constitute the historical places of this wine-producing tradition area. Modernist wineries, known as the wine cathedrals, make up their cultural heritage.
+This region, surrounded by mountains and crossed by the River Francolí, enjoys a Mediterranean microclimate with a continental influence that causes temperature differences between day and night. They are only formed by the erosive action of the river.
+Geography and climate are alien to the Conca de Barberà in order to give it optimum conditions for the conreo of the vineyard.
+Freshness is the most important quality of Conca de Barberà's wines.
+The pinks elaborated with the native variety Trepat endow this area with a singular personality.
+From the Conca de Barberà comes one of the most prestigious white wines, made with chardonnay. The Macabeo and parellada varieties give consistent and light wines.
+Because they are Red, elaborated with Red Grenache, Ull de llebre - Tempranillo and Trepat, they are silky and soft.
+</description>
+		<vineyard-area measure="ha">3500</vineyard-area>
+		<registered-winegrowers>870</registered-winegrowers>
+		<registered-wineries total="28">
+			<winery>Abadia de Poblet</winery>
+			<winery>Agrícola de Barberà</winery>
+			<winery>Bodegas Miguel Torres</winery>
+			<winery>Cara Nord Celler</winery>
+			<winery>Castell d'Or (Celler modernista de l'Espluga de Francolí)</winery>
+			<winery>Celler Carles Andreu</winery>
+			<winery>Celler Clos Montblanc (Concavins)</winery>
+			<winery>Celler Costador Terroirs Mediterranis</winery>
+			<winery>Celler Heredad Pallaré</winery>
+			<winery>Celler Mas de la Pansa</winery>
+			<winery>Celler Mas Foraster</winery>
+			<winery>Celler Rendé Masdéu</winery>
+			<winery>Celler Rosa Mª Torres</winery>
+			<winery>Celler Sanstravé (Cal Gasset)</winery>
+			<winery>Celler Vega Aixalà (Vilanova Vins)</winery>
+			<winery>Celler Vins de Pedra (Marta Pedra)</winery>
+			<winery>Cellers Domenys i Secció de Crèdit (Blancafort)</winery>
+			<winery>Cellers Domenys i Secció de Crèdit (Celler modernista de Pira)</winery>
+			<winery>Cellers Domenys i Secció de Crèdit (Celler modernista de Rocafort de Queralt)</winery>
+			<winery>Gatzara Vins</winery>
+			<winery>Gerida Viticultors</winery>
+			<winery>Molí dels Capellans</winery>
+			<winery>Succés Vinícola</winery>
+			<winery>Vidbertus</winery>
+			<winery>Vinícola de Sarral Secció de Crèdit (COVISAL)</winery>
+			<winery>VINYES DE L'ALBÀ</winery>
+			<winery>Viticultors de Solivella (COVISO)</winery>
+			<winery>Viticultors Mas del Nen</winery>
+		</registered-wineries>
+		<production measure="hl">5764.39</production>
+		<varieties>
+			<whites>
+				<variety>Chardonnay</variety>
+				<variety>Chenin</variety>
+				<variety>White Grenache</variety>
+				<variety>Macabeo</variety>
+				<variety>Little grape muscatel</variety>
+				<variety>Alexandria muscatel</variety>
+				<variety>Parellada</variety>
+				<variety>White Sauvignon</variety>
+			</whites>
+			<reds>
+				<variety>Cabernet franc</variety>
+				<variety>Cabernet sauvignon</variety>
+				<variety>Red Grenache</variety>
+				<variety>Merlot</variety>
+				<variety>Monastrell</variety>
+				<variety>Pinot noir</variety>
+				<variety>Carignan</variety>
+				<variety>Syrah</variety>
+				<variety>Trepat</variety>
+				<variety>Ull de llebre - Tempranillo</variety>
+			</reds>
+		</varieties>
+		<conditions tipus="url">http://incavi.gencat.cat/web/.content/or_organismes/or01_incavi/or01_02_denominacions_origen/documents/fitxers_estatics/dop_concabarbera_pliegocondiciones.pdf</conditions>
+	</denomination>
+	<denomination>
+		<id>4</id>
+		<doname>DO Costers del Segre</doname>
+		<council-address>
+			<name>Consell Regulador de la Denominació d'Origen Costers del Segre</name>
+			<postal-address>Complex de la Caparrella, 97</postal-address>
+			<cp>25192</cp>
+			<town>Lleida</town>
+			<province>Lleida</province>
+			<email>secretari@costersdelsegre.es</email>
+			<web>http://www.costersdelsegre.es</web>
+		</council-address>
+		<description>
+The territory of Costers del Segre covers land in the counties of Pallars Jussà, Pallars Sobírà, El Segrià, L'Urgell, Pla d'Urgell, Les Garrigues, La Noguera and La Segarra. There are seven sub-areas: Raïmat, Segrià, Pallars, Les Garrigues, Vall de Riu Corb, Artesa de Segre and Urgell.
+The thermal contrast of the continental climate is accentuated by high heat dissipation and low rainfall. Each sub-area presents climatic and soil differences, and landscapes that combine mountain and flat.
+The Costers del Segre nexus is the character of its winegrowers and the first-line technology, modern and innovative.
+Red Cabernet Sauvignon, Pinot Noir, Merlot and Tempranillo head the diversity of wines that are produced there. They are powerful, balanced and structured.
+Rosemary of Tempranillo, Merlot and Cabernet Sauvignon are fresh and fruity.
+The whites are classic, made from Macabeo, Xarelo and Parellada, or modern, Chardonnay, White Sauvignon or Riesling. Part of the production of white grapes is mainly used for the production of Cava.	</description>
+		<vineyard-area measure="ha">4212</vineyard-area>
+		<registered-winegrowers>515</registered-winegrowers>
+		<registered-wineries total="44">
+			<winery>Bregolat</winery>
+			<winery>Celler Analec</winery>
+			<winery>Antoni Giribert</winery>
+			<winery>Batlliu de Sort</winery>
+			<winery>Celler Cal Cabo</winery>
+			<winery>Cellers Carviresa</winery>
+			<winery>Casa Pardet</winery>
+			<winery>Casa Patau</winery>
+			<winery>Castell d'Encús</winery>
+			<winery>Castell del Remei</winery>
+			<winery>Boldú</winery>
+			<winery>Celler Comalats</winery>
+			<winery>Celler Montsec</winery>
+			<winery>El Vinyer</winery>
+			<winery>Celler Era Galan</winery>
+			<winery>Celler Mas de Móra</winery>
+			<winery>Celler Mas Garcia Muret</winery>
+			<winery>Celler Mas Ramoneda</winery>
+			<winery>Celler Petit Duran</winery>
+			<winery>Celler Cercavins</winery>
+			<winery>Cérvoles</winery>
+			<winery>Clos Pons</winery>
+			<winery>Costers del Sió</winery>
+			<winery>L'Olivera</winery>
+			<winery>La Gravera</winery>
+			<winery>Mas Blanch i Jové</winery>
+			<winery>Celler Matallonga</winery>
+			<winery>Celler Monestir del Tallat</winery>
+			<winery>Purgatori</winery>
+			<winery>Raimat</winery>
+			<winery>Sauvella</winery>
+			<winery>Terrer de Pallars</winery>
+			<winery>Tomàs Cusiné</winery>
+			<winery>Vall de Baldomar</winery>
+			<winery>Cellers Vila Corona</winery>
+			<winery>Vinya els Vilars</winery>
+			<winery>Vinya l'Hereu</winery>
+		</registered-wineries>
+		<production measure="hl">32105</production>
+		<varieties>
+			<whites>
+				<variety>Albarinho</variety>
+				<variety>Chardonnay</variety>
+				<variety>Chenin</variety>
+				<variety>White Grenache</variety>
+				<variety>Gewurztraminer</variety>
+				<variety>Macabeo</variety>
+				<variety>Malvasia</variety>
+				<variety>Big grape muscatel</variety>
+				<variety>Little grape muscatel</variety>
+				<variety>Alexandria muscatel</variety>
+				<variety>Parellada</variety>
+				<variety>Riesling</variety>
+				<variety>White Sauvignon</variety>
+				<variety>Viognier</variety>
+				<variety>Xarelo</variety>
+			</whites>
+			<reds>
+				<variety>Cabernet sauvignon</variety>
+				<variety>Cabernet franc</variety>
+				<variety>Tinting Grenache</variety>
+				<variety>Red Grenache</variety>
+				<variety>Merlot</variety>
+				<variety>Monastrell</variety>
+				<variety>Small verdot</variety>
+				<variety>Pinot noir</variety>
+				<variety>Carignan</variety>
+				<variety>Syrah</variety>
+				<variety>Trepat</variety>
+				<variety>Ull de llebre - Tempranillo</variety>
+			</reds>
+		</varieties>
+		<conditions tipus="url">http://incavi.gencat.cat/web/.content/or_organismes/or01_incavi/or01_02_denominacions_origen/documents/fitxers_estatics/dop_costerssegre_pliegocondiciones.pdf</conditions>
+	</denomination>
+	<denomination>
+		<id>5</id>
+		<doname>DO Empordà</doname>
+		<council-address>
+			<name>Consell Regulador de la Denominació d'Origen Empordà</name>
+			<postal-address>Av. Marignane, 2</postal-address>
+			<cp>17600</cp>
+			<town>Figueres</town>
+			<province>Girona</province>			
+			<email>info@doemporda.cat</email>
+			<web>http://www.doemporda.cat</web>
+		</council-address>
+		<description>The sea and the mountain form a landscape of harmonic hardness, where the vine grows cross to land to avoid the consequences of the Tramuntana.
+The climate is Mediterranean, with influences from southern and cold southern winds, moderate winters and hot summers but tempered by breezes. Insolation is high and remarkable rainfall. The lands are poor and acidic, with good drainage and suitable for the production of quality wines.
+Empúries is traditionally considered as the gateway where the Greeks introduced the cultivation of the vineyards on the peninsula.
+The Pinks, elaborated with Carignan, Red Grenache and Lledón predominate. They are fruity, fresh, moderate and very tasty.
+Reds are made with Grenache or Cabernet Sauvignon and they are fruity and light. The whites, elaborated with Macabeo, Parellada, Xarelo, Chardonnay, White Grenache are fresh and tasty.
+Grenache de l'Empordà is an exceptional sweet wine, typical of the area, warm and silky.
+		</description>
+		<vineyard-area measure="ha">1770</vineyard-area>
+		<registered-winegrowers>290</registered-winegrowers>
+		<registered-wineries total="50">
+			<winery>*lavinyeta</winery>
+			<winery>Agrícola de Garriguella</winery>
+			<winery>Aldea de Buscarós</winery>
+			<winery>AV Bodeguers</winery>
+			<winery>Bodegas Clos d'Agon</winery>
+			<winery>Bodegas Mas Vida</winery>
+			<winery>Bodegues Trobat</winery>
+			<winery>Castell de Biart</winery>
+			<winery>Castell de Calonge</winery>
+			<winery>Castell Peralada</winery>
+			<winery>Celler Arché Pagès</winery>
+			<winery>Celler Bell-Lloc</winery>
+			<winery>Celler Castelló - Murphy</winery>
+			<winery>Celler Cooperatiu d'Espolla</winery>
+			<winery>Celler Hugas de Batlle</winery>
+			<winery>Celler Marià Pagès</winery>
+			<winery>Celler Martí Fabra</winery>
+			<winery>Celler Martín Faixó</winery>
+			<winery>Celler Mas Anglada</winery>
+			<winery>Celler Mas Eugeni</winery>
+			<winery>Celler Mas Patiràs</winery>
+			<winery>Celler Mas Pòlit</winery>
+			<winery>Celler Mas Romeu</winery>
+			<winery>Celler Pujol Cargol </winery>
+			<winery>Cellers d'en Guilla</winery>
+			<winery>Cellers Santamaria</winery>
+			<winery>Empordàlia</winery>
+			<winery>Espelt Viticultors</winery>
+			<winery>Gelamà</winery>
+			<winery>Mas Estela</winery>
+			<winery>Mas Llunes</winery>
+			<winery>Mas Oller</winery>
+			<winery>Masetplana</winery>
+			<winery>Masia Serra</winery>
+			<winery>Oliveda, S.A.</winery>
+			<winery>Oliver Conti, S.L.</winery>
+			<winery>Pere Guardiola</winery>
+			<winery>Roig Parals</winery>
+			<winery>Sota els Àngels</winery>
+			<winery>Terra Remota</winery>
+			<winery>Vinyes d'Olivardots</winery>
+			<winery>Vinyes dels Aspres</winery>
+		</registered-wineries>
+		<production measure="hl">46302.22</production>
+		<varieties>
+			<whites>
+				<variety>Chardonnay</variety>
+				<variety>White Grenache</variety>
+				<variety>Red Grenache</variety>
+				<variety>Gewurztraminer</variety>
+				<variety>Macabeo</variety>
+				<variety>Malvasia</variety>
+				<variety>Little grape muscatel</variety>
+				<variety>Alexandria muscatel</variety>
+				<variety>White Picapoll</variety>
+				<variety>White Sauvignon </variety>
+				<variety>Xarelo</variety>
+			</whites>
+			<reds>
+				<variety>Cabernet franc</variety>
+				<variety>Cabernet sauvignon</variety>
+				<variety>Hairy Grenache</variety>
+				<variety>Red Grenache</variety>
+				<variety>Merlot</variety>
+				<variety>Monastrell</variety>
+				<variety>Carignan</variety>
+				<variety>Syrah</variety>
+				<variety>Ull de llebre - Tempranillo</variety>
+			</reds>
+		</varieties>
+		<conditions tipus="url">http://incavi.gencat.cat/web/.content/or_organismes/or01_incavi/or01_02_denominacions_origen/documents/fitxers_estatics/dop_emporda_pliegocondiciones.pdf</conditions>
+	</denomination>
+	<denomination>
+		<id>6</id>
+		<doname>DO Montsant</doname>
+		<council-address>
+			<name>Consell Regulador de la Denominació d'Origen Montsant</name>
+			<postal-address>Pl. Quartera, 6</postal-address>
+			<cp>43730</cp>
+			<town>Falset</town>
+			<province>Tarragona</province>
+			<email>info@domontsant.com</email>
+			<web>http://www.domontsant.com</web>
+		</council-address>
+		<description>In the form of a ring, and with most of the territory in the Priorat region, except for some lands of the Ribera d'Ebre, DO Montsant is defined as a new, modern and active Denomination of Origin.
+The climate is Mediterranean with continental features. The precipitations are scarce and there are accentuated oscillations of temperature, although the south is warmer.
+In terms of soils, we can find three different types, although there are a lot of diversity within each group. In the periphery of the DO we have compact, calcareous soil, where the pebbles and slabs of the river terraces and rogerous fersialitic soils predominate. In the Falset area, we find granite, fertile but with little water retention capacity. In some areas of Cornudella and Falset, we have siliceous slates, which are called "llicorelles", are poor soil in organic matter and stony.
+The vines have a low yield, a characteristic that defines the wines of this area, which makes them very prized.
+The red wines, the most important in quantity, are made with Carignan, Red Grenache and Tempranillo, and also for blends with cabernet sauvignon, Hairy Grenache, Merlot, Monastrell, Red Picapoll and Syrah. They are custard wines.
+The whites are preferably made with white and Macabeo grenache, and to a lesser extent with chardonnay, muscatel, parellada and pansal.
+They can also be found pink and liqueur.
+		</description>
+		<vineyard-area measure="ha">1850</vineyard-area>
+		<registered-winegrowers>750</registered-winegrowers>
+		<registered-wineries total="69">
+			<winery>Acústic Celler</winery>
+			<winery>Agrícola Aubacs i Solans S.C.C.L.</winery>
+			<winery>Agrícola d'Ulldemolins Sant Jaume S.C.C.L.</winery>
+			<winery>Cooperativa Falset Marçà</winery>
+			<winery>Agrícola i SEC.CRED. de Cabacés S.C.C.L.</winery>
+			<winery>Celler Anguera Domènech</winery>
+			<winery>Baronia del Montsant</winery>
+			<winery>Celler Pascona</winery>
+			<winery>Celler AiBar</winery>
+			<winery>Celler Cedó Anguera S.L.</winery>
+			<winery>Celler Cooperatiu Cornudella S.C.C.L.</winery>
+			<winery>Celler Cooperatiu El Molar S.C.C.L.</winery>
+			<winery>Celler Cubells i Cubells S.C.P.</winery>
+			<winery>Celler de Capçanes</winery>
+			<winery>Celler El Masroig</winery>
+			<winery>Celler Laurona S.A.</winery>
+			<winery>Celler Malondro S.L.</winery>
+			<winery>Celler Mas de les Vinyes</winery>
+			<winery>Celler Vermunver</winery>
+			<winery>Celler Dosterras</winery>
+			<winery>Cellers Capafons-Ossó S.L.</winery>
+			<winery>Cellers Joan d'Anguera</winery>
+			<winery>Cellers Sant Rafel S.L.</winery>
+			<winery>Celler Serra Major S.L.</winery>
+			<winery>Cingles Blaus S.L.</winery>
+			<winery>El Cucullar</winery>
+			<winery>Sant Marcell</winery>
+			<winery>Noguerals S.C.P.</winery>
+			<winery>Portal del Montsant S.L.</winery>
+			<winery>Ronadelles S.L.</winery>
+			<winery>Vendrell Rived C.B.</winery>
+			<winery>Venus La Universal S.L.</winery>
+			<winery>Viñas del Montsant</winery>
+			<winery>Vinyes d'en Gabriel</winery>
+			<winery>Vinyes Domènech - Capçanes S.C.P.</winery>
+			<winery>Amics del Gobe, SL.</winery>
+			<winery>Cellers Can Blau, SL.</winery>
+			<winery>Coca i Fitó</winery>
+			<winery>Spectacle Vins, SL</winery>
+			<winery>Celler Sui Generis</winery>
+			<winery>Orto Vins, SL</winery>
+			<winery>Estones Vins - Vins de Mas Sersal</winery>
+			<winery>Serra i Barceló, S.L.</winery>
+			<winery>Celler Comunica</winery>
+			<winery>El Vi dels 20, SL.</winery>
+			<winery>Alfredo Arribas</winery>
+			<winery>Agrícola i SEC.CRED. de La Serra d'Almos S.C.C.L.</winery>
+			<winery>Celler Els Guiamets</winery>
+			<winery>Mas de l'Abundància Viticultors S.L.</winery>
+			<winery>Celler Los Trovadores</winery>
+			<winery>Don Carles Vins</winery>
+			<winery>Cellers Unió</winery>
+			<winery>Clos Mesorah</winery>
+			<winery>Clos Pissarra</winery>
+			<winery>Celler de l'Era - Mas de les Moreres</winery>
+			<winery>Ediciones I-limitadas, SL</winery>
+			<winery>Celler D. Russel Smith</winery>
+			<winery>Celler Cairats</winery>
+			<winery>Álvaro Cateura Perón</winery>
+			<winery>Josep Grau Viticultor</winery>
+			<winery>Celler La Placeta</winery>
+			<winery>Cal Bessó - Encastell</winery>
+			<winery>DEVA Montsant</winery>
+			<winery>Mas de l' Anguera</winery>
+		</registered-wineries>
+		<production measure="hl">46128.22</production>
+		<varieties>
+			<whites>
+				<variety>Chardonnay</variety>
+				<variety>White Grenache</variety>
+				<variety>Macabeo</variety>
+				<variety>Little grape muscatel</variety>
+				<variety>Pansal</variety>
+				<variety>Parellada</variety>
+			</whites>
+			<reds>
+				<variety>Cabernet sauvignon</variety>
+				<variety>Hairy Grenache</variety>
+				<variety>Red Grenache</variety>
+				<variety>Carignan</variety>
+				<variety>Merlot</variety>
+				<variety>Monastrell</variety>
+				<variety>Red Picapoll</variety>
+				<variety>Syrah</variety>
+				<variety>Ull de llebre - Tempranillo</variety>
+			</reds>
+		</varieties>
+		<conditions tipus="url">http://incavi.gencat.cat/web/.content/or_organismes/or01_incavi/or01_02_denominacions_origen/documents/fitxers_estatics/dop_montsant_pliegocondiciones.pdf</conditions>
+	</denomination>
+	<denomination>
+		<id>7</id>
+		<doname>DO Penedès</doname>
+		<council-address>
+			<name>Consell Regulador de la Denominació d'Origen Penedès</name>
+			<postal-address>Edifici Àgora, Plaça Àgora, Pol Industrial Domenys II</postal-address>
+			<cp>08720</cp>
+			<town>Vilafranca del Penedès</town>
+			<province>Barcelona</province>
+			<email>dopenedes@dopenedes.es</email>
+			<web>http://www.dopenedes.es</web>
+		</council-address>
+		<description>One of the richest and most diverse regions of the wine-growing Europe and the area with the highest production and international projection in Catalonia: El Penedès, which also stands out for the quality of its products and the dynamism of its people.
+The lands are formed by small hills that sail from the sea to Montserrat, passing through small valleys of different rivers.
+The climate is Mediterranean, tempered, warm and soft, with remarkable seasonal thermal oscillations. The low rainfall and the high level of sunlight contribute to making Penedès an optimal area for the cultivation of the vineyard.
+The diversity of wines is the most outstanding feature of the Penedès. Great producer of white wines.
+Traditional white wines are light, aromatic, cheerful and with little body. The needle and pink wines are fragrant, with intense and persistent aroma.
+In recent times, the production of red wines, which have body, has been significantly increased, are silky, aromatic and balanced.
+		</description>
+		<vineyard-area measure="ha">17894</vineyard-area>
+		<registered-winegrowers>2815</registered-winegrowers>
+		<registered-wineries total="178">
+			<winery>1 + 1 = 3</winery>
+			<winery>Agustí Torelló i Mata</winery>
+			<winery>Albet i Noya</winery>
+			<winery>Alemany i Corrió</winery>
+			<winery>Alsina &amp; Sardà</winery>
+			<winery>Antoni Vilamajó Saumell</winery>
+			<winery>Avinyó</winery>
+			<winery>Blancher</winery>
+			<winery>Bodegas Ca n'Estella</winery>
+			<winery>Bodegas Capità Vidal</winery>
+			<winery>Bolet</winery>
+			<winery>Bonans</winery>
+			<winery>Can Bas Domini Vinícola</winery>
+			<winery>Can Bonastre</winery>
+			<winery>Can Casals</winery>
+			<winery>Can Comas</winery>
+			<winery>Can Descregut</winery>
+			<winery>Can Feixes</winery>
+			<winery>Can Quetu, S.L.</winery>
+			<winery>Can Ràfols dels Caus</winery>
+			<winery>Can Vich</winery>
+			<winery>Canals &amp; Munné</winery>
+			<winery>Canals Canals</winery>
+			<winery>Canals Nadal</winery>
+			<winery>Carles de Lavern</winery>
+			<winery>Casa Ravella</winery>
+			<winery>Castell d'Age</winery>
+			<winery>Castell de Pujades</winery>
+			<winery>Castellroig</winery>
+			<winery>Castelo Vins</winery>
+			<winery>Cavas Lavernoya</winery>
+			<winery>Caves Hill</winery>
+			<winery>Celler Cal Serrador</winery>
+			<winery>Celler Can Marlès</winery>
+			<winery>Celler Can Morral del Moli</winery>
+			<winery>Celler Credo</winery>
+			<winery>Celler Domenys</winery>
+			<winery>Celler Grapissó</winery>
+			<winery>Celler Josep M. Ferret Guasch</winery>
+			<winery>Celler Planas Albareda</winery>
+			<winery>Celler Puig Romeu</winery>
+			<winery>Celler Terra de Marca</winery>
+			<winery>Cellers AT Roca</winery>
+			<winery>Cellers Avgvstvs</winery>
+			<winery>Cevipe</winery>
+			<winery>Civino, S.L.</winery>
+			<winery>Clos Lentiscus</winery>
+			<winery>Colet</winery>
+			<winery>Coma Romà</winery>
+			<winery>Cooperativa de Llorenç</winery>
+			<winery>Covides</winery>
+			<winery>Emendis</winery>
+			<winery>Enric Soler</winery>
+			<winery>Esteve i Gibert Viticultors</winery>
+			<winery>Eudald Massana Noya</winery>
+			<winery>Felix Massana Ràfols</winery>
+			<winery>Ferré i Catasús</winery>
+			<winery>Finca Valldosera</winery>
+			<winery>Finca Viladellops</winery>
+			<winery>Francisco Dominguez Cruces</winery>
+			<winery>Giró del Gorner</winery>
+			<winery>Giró Ribot</winery>
+			<winery>Gramona</winery>
+			<winery>Heretat Mas Tinell</winery>
+			<winery>Heretat Mestres</winery>
+			<winery>Heretat Mont-Rubí</winery>
+			<winery>Jané Ventura</winery>
+			<winery>Jaume Giró Giró</winery>
+			<winery>Jaume Serra</winery>
+			<winery>Jean Leon</winery>
+			<winery>Joan Llopart Pons</winery>
+			<winery>Joan Piñol Torrents</winery>
+			<winery>Joan Sardà</winery>
+			<winery>Joan Segura Pujades</winery>
+			<winery>Josep Maria Rosell Salvó</winery>
+			<winery>Julia Bernet</winery>
+			<winery>Juvé &amp; Camps</winery>
+			<winery>La Xarmada</winery>
+			<winery>Llàgrima d'Or</winery>
+			<winery>Llopart</winery>
+			<winery>Llopart Güell</winery>
+			<winery>Loxarel</winery>
+			<winery>Martí Serdà</winery>
+			<winery>Mas Bertran</winery>
+			<winery>Mas Candi</winery>
+			<winery>Mas Codina</winery>
+			<winery>Mas Comtal</winery>
+			<winery>Mas dels Clavers Can Gallego</winery>
+			<winery>Mas Rodó</winery>
+			<winery>Masachs</winery>
+			<winery>Mascaró</winery>
+			<winery>Maset del Lleó</winery>
+			<winery>Masia Bach</winery>
+			<winery>Masia Ginebreda</winery>
+			<winery>Masolive</winery>
+			<winery>Mata i Coloma</winery>
+			<winery>Miguel Torres</winery>
+			<winery>Miquel Jané</winery>
+			<winery>Miquel Pons</winery>
+			<winery>Mont Marçal</winery>
+			<winery>Montau de Sadurní</winery>
+			<winery>Montesquius</winery>
+			<winery>MontPicolis</winery>
+			<winery>Muscàndia</winery>
+			<winery>Nadal</winery>
+			<winery>Naveran</winery>
+			<winery>Oliver Viticultors</winery>
+			<winery>Oriol Rossell</winery>
+			<winery>Parató</winery>
+			<winery>Pardas</winery>
+			<winery>Parés Baltà</winery>
+			<winery>Pere Olivella Rovira</winery>
+			<winery>Pere Ventura</winery>
+			<winery>Picher</winery>
+			<winery>Pinord</winery>
+			<winery>Raventós i Blanc</winery>
+			<winery>René Barbier</winery>
+			<winery>Romagosa Torné</winery>
+			<winery>Ros Marina Viticultors</winery>
+			<winery>Rovellats</winery>
+			<winery>Sant Joannes</winery>
+			<winery>Sebastià Pié Rovira</winery>
+			<winery>Segura Viudas</winery>
+			<winery>Soler Jovè</winery>
+			<winery>Sumarroca</winery>
+			<winery>Suriol</winery>
+			<winery>Tarrida i Sibil</winery>
+			<winery>Torelló</winery>
+			<winery>Torre del Veguer</winery>
+			<winery>Torrens Moliner</winery>
+			<winery>Trias Batlle</winery>
+			<winery>VallDolina</winery>
+			<winery>Vallformosa</winery>
+			<winery>Varias</winery>
+			<winery>Vega de Ribes</winery>
+			<winery>Ventura Soler</winery>
+			<winery>Vilarnau</winery>
+			<winery>Viña Torreblanca</winery>
+			<winery>Vinícola de Moy Riviere</winery>
+			<winery>Vins el Cep</winery>
+			<winery>Vinya Escudé</winery>
+			<winery>Xamos</winery>
+		</registered-wineries>
+		<production measure="hl">143173</production>
+		<varieties>
+			<whites>
+				<variety>Chardonnay</variety>
+				<variety>Chenin</variety>
+				<variety>White Grenache</variety>
+				<variety>Gewurztraminer</variety>
+				<variety>Macabeo</variety>
+				<variety>Malvasia de Sitges</variety>
+				<variety>Big grape muscatel</variety>
+				<variety>Little grape muscatel</variety>
+				<variety>Parellada</variety>
+				<variety>Riesling</variety>
+				<variety>White Sauvignon</variety>
+				<variety>Subirant parent</variety>
+				<variety>White Sumoll</variety>
+				<variety>Viognier</variety>
+				<variety>Xarelo</variety>
+			</whites>
+			<reds>
+				<variety>Cabernet franc</variety>
+				<variety>Cabernet sauvignon</variety>
+				<variety>Grenache</variety>
+				<variety>Merlot</variety>
+				<variety>Monastrell</variety>
+				<variety>Small verdot</variety>
+				<variety>Pinot noir</variety>
+				<variety>Carignan</variety>
+				<variety>Ull de llebre - Tempranillo</variety>
+				<variety>Red Sumoll</variety>
+				<variety>Syrah</variety>
+			</reds>
+		</varieties>
+		<conditions tipus="url">http://incavi.gencat.cat/web/.content/or_organismes/or01_incavi/or01_02_denominacions_origen/documents/fitxers_estatics/dop_penedes_pliegocondiciones_texto_consolidado.pdf</conditions>
+	</denomination>
+	<denomination>
+		<id>8</id>
+		<doname>DO Pla de Bages</doname>
+		<council-address>
+			<name>Consell Regulador de la Denominació d'Origen Pla del Bages</name>
+			<postal-address>Casa de la Culla. C/ de la Culla, s/n</postal-address>
+			<cp>08240</cp>
+			<town>Manresa</town>
+			<province>Barcelona</province>			
+			<email>info@dopladebages.com</email>
+			<web>http://www.dopladebages.com</web>
+		</council-address>
+		<description>In the middle of Catalonia, in the eastern part of Central Depression, there is a wine island, the Pla de Bages.
+The Mediterranean microclimate of the mountain, a low rainfall and a very strong thermal oscillation are ideal for the cultivation of the vineyard. The wavy and poor soils form the personality of their wines. The climatic rigor entails yields of short grapes, but of an excellent quality.
+The vineyards, dry stone constructions, make up the landscape of this territory, and are an example of the wine-growing tradition of the Pla de Bages.
+The elaboration of red wines is quite important. Tempranillo, Merlot, Sumerian and Sauvigon Cabernet are the most widely used varieties, and, to a lesser extent, Red Grenache, Pinot Noir and Syrah. They are fruity and with a good aroma.
+Picapoll is the most emblematic autochthonous variety, and gives rise to light and exquisite white wines. There are also white Macabeo, parellada and chardonnay.
+pinks are modern, of Merlot and Cabernet Sauvignon.
+		</description>
+		<vineyard-area measure="ha">17894</vineyard-area>
+		<registered-winegrowers>80</registered-winegrowers>
+		<registered-wineries total="12">
+			<winery>Celler Abadal</winery>
+			<winery>Celler Solergibert</winery>
+			<winery>Caves Gibert</winery>
+			<winery>Celler Coop. d'Artés</winery>
+			<winery>Mas de Sant Iscle</winery>
+			<winery>Celler Sanmartí</winery>
+			<winery>Celler El Molí</winery>
+			<winery>Celler Coop. de Salelles</winery>
+			<winery>Heretat Oller del Mas</winery>
+			<winery>Fargas Fargas</winery>
+			<winery>Vins Grau</winery>
+			<winery>Can Serra dels Exibis</winery>
+			<winery>Vins Colltor</winery>
+			<winery>Les Acàcies</winery>
+		</registered-wineries>
+		<production measure="hl">5910.56</production>
+		<varieties>
+			<whites>
+				<variety>Chardonnay</variety>
+				<variety>Gewurztraminer</variety>
+				<variety>Macabeo</variety>
+				<variety>Malvasia de Sitges</variety>
+				<variety>Parellada</variety>
+				<variety>White Picapoll</variety>
+				<variety>White Sauvignon</variety>
+			</whites>
+			<reds>
+				<variety>Cabernet franc</variety>
+				<variety>Cabernet sauvignon</variety>
+				<variety>Tinting Grenache</variety>
+				<variety>Red Grenache</variety>
+				<variety>Merlot</variety>
+				<variety>Red Picapoll</variety>
+				<variety>Red Sumoll</variety>
+				<variety>Syrah</variety>
+				<variety>Ull de llebre - Tempranillo</variety>
+			</reds>
+		</varieties>
+		<conditions tipus="url">http://incavi.gencat.cat/web/.content/or_organismes/or01_incavi/or01_02_denominacions_origen/documents/fitxers_estatics/dop_plabages_pliegocondiciones.pdf</conditions>
+	</denomination>
+	<denomination>
+		<id>9</id>
+		<doname>DO Priorat</doname>
+		<council-address>
+			<name>Consell Regulador de la Denominació d'Origen Priorat</name>
+			<postal-address>c/ Major, 2</postal-address>
+			<cp>43737</cp>
+			<town>	Torroja del Priorat</town>
+			<province>Tarragona</province>
+			<email>info@doqpriorat.org</email>
+			<web>http://www.doqpriorat.org</web>
+		</council-address>
+		<description>The prestige of the Priorat is recognized with the highest mention of quality: the qualified denomination of origin.
+The weather is abrupt and extreme, with very acute heat oscillations between day and night. The geography of this area of ​​ancient wine-making tradition is spectacular, with beams and costers of steep slopes that you must build terraces for the cultivation of the vineyard. The floors are formed by slates that receive the name of llicorelles.
+Soil and climate produce very low yields of grapes and give wines of this area a very unique personality.
+The Priorat are mainly red, made from Carignan, Red Grenache and hairy, and, to a lesser extent, Cabernet Sauvignon, Merlot and Syrah. They present a very high graduation, with very complex aromas, fleshy and round. Elegant and original, they are very welcoming.
+The white wines produced with white Grenache, Macabeo and Pedro Ximénez, the Red Grenache and the generous and rancid ones complete the production of the Priorat.
+		</description>
+		<vineyard-area measure="ha">1916.17</vineyard-area>
+		<registered-winegrowers>601</registered-winegrowers>
+		<registered-wineries total="126">
+			<winery>Álvaro Palacios</winery>
+			<winery>Agrícola de Poboleda</winery>
+			<winery>Arrels del Priorat, SCP</winery>
+			<winery>Balaguer i Cabré</winery>
+			<winery>Balmaprat</winery>
+			<winery>Bodegas Bordalás Garcia (B.G.)</winery>
+			<winery>Bodegas Mas Alta, S.A.</winery>
+			<winery>Bodegas y Viñedos Cal Grau</winery>
+			<winery>Buil &amp; Giné</winery>
+			<winery>Burgos Porta</winery>
+			<winery>Cal Batllet - Celler Ripoll Sans</winery>
+			<winery>Cartoixa de Montsalvat</winery>
+			<winery>Casa Gran del Siurana</winery>
+			<winery>Celler Aixalà i Alcait</winery>
+			<winery>Celler Ardèvol i Associats</winery>
+			<winery>Celler Cal Pla</winery>
+			<winery>Celler Castellet</winery>
+			<winery>Celler Cecilio</winery>
+			<winery>Celler Cesca Vicent</winery>
+			<winery>Celler Clos 93 Priorat, SL</winery>
+			<winery>Celler Crivellé i Valls, S.L.</winery>
+			<winery>Celler de l'Encastell</winery>
+			<winery>Celler del Pont</winery>
+			<winery>Celler dels Pins Vers</winery>
+			<winery>Celler Escoda Pallejà</winery>
+			<winery>Celler Familia Nin Ortiz</winery>
+			<winery>Celler Família Sedó Barceló</winery>
+			<winery>Celler Joan Simó</winery>
+			<winery>Celler Jordi Domènech</winery>
+			<winery>Celler Lo</winery>
+			<winery>Celler Mas d'en Blei</winery>
+			<winery>Celler Mas d'en Just</winery>
+			<winery>Celler Mas de les Pereres</winery>
+			<winery>Celler Mas Doix</winery>
+			<winery>Celler Mas Garrian</winery>
+			<winery>Celler Melis</winery>
+			<winery>Celler Pahí</winery>
+			<winery>Celler Pasanau</winery>
+			<winery>Celler Pol Grifoll Declara</winery>
+			<winery>Celler Rosa Ma. Bartolomé Vernet</winery>
+			<winery>Celler Sabaté</winery>
+			<winery>Celler Vall Llach</winery>
+			<winery>Cellers Capafons-Ossó</winery>
+			<winery>Cellers Costers del Ros</winery>
+			<winery>Cellers de Scala Dei</winery>
+			<winery>Cellers Sabaté Franquet</winery>
+			<winery>Cellers Tane - Santes Gates SL</winery>
+			<winery>Cims de Porrera</winery>
+			<winery>Clos Aubaga</winery>
+			<winery>Clos Berenguer</winery>
+			<winery>Clos de l'Obac</winery>
+			<winery>Clos Dominic</winery>
+			<winery>Clos Figueras</winery>
+			<winery>Clos i Terrasses</winery>
+			<winery>Clos Mogador</winery>
+			<winery>Combier-Fischer-Gerin (Celler l'Infernal)</winery>
+			<winery>De Muller</winery>
+			<winery>Devinssi</winery>
+			<winery>Domaines Magrez Espagne</winery>
+			<winery>Domini de la Cartoixa</winery>
+			<winery>Els Vil·lusionistes</winery>
+			<winery>En Números Vermells</winery>
+			<winery>Estriacus</winery>
+			<winery>Ferrer Bobet</winery>
+			<winery>Genium Celler</winery>
+			<winery>Gran Clos</winery>
+			<winery>Gratavinum</winery>
+			<winery>Hidalgo Albert</winery>
+			<winery>Joan Ametller</winery>
+			<winery>La Conreria d'Scala Dei</winery>
+			<winery>Llicorella Vins</winery>
+			<winery>Maius Viticultors</winery>
+			<winery>Marco Abella</winery>
+			<winery>Mas dels Estels</winery>
+			<winery>Mas Igneus</winery>
+			<winery>Mas la Mola</winery>
+			<winery>Mas Martinet Assessoraments</winery>
+			<winery>Mas Martinet Viticultors</winery>
+			<winery>Mayol Viticultors</winery>
+			<winery>Meritxell Pallejà, SL</winery>
+			<winery>Merum Priorati</winery>
+			<winery>Noguerals</winery>
+			<winery>Perinet Winery</winery>
+			<winery>Pinord "Mas Blanc"</winery>
+			<winery>Portal del Priorat</winery>
+			<winery>Ritme Celler</winery>
+			<winery>Roca de les Dotze</winery>
+			<winery>Sabaté i Mur Vinaters</winery>
+			<winery>Sangenís i Vaqué</winery>
+			<winery>Saó del Coster</winery>
+			<winery>SAT Els Cups</winery>
+			<winery>Solà Clàssic</winery>
+			<winery>Terra de Verema</winery>
+			<winery>Terra Dominicata</winery>
+			<winery>Terres de Vidalba</winery>
+			<winery>Terroir al Límit</winery>
+			<winery>Torres Priorat</winery>
+			<winery>Trossos del Priorat</winery>
+			<winery>Vinícola del Priorat</winery>
+			<winery>Vins d'Alta Qualitat</winery>
+			<winery>Vinyes Altair</winery>
+			<winery>Viticultors del Priorat</winery>
+			<winery>Viticultors Mas d'en Gil</winery>
+		</registered-wineries>
+		<production measure="hl">13886.82</production>
+		<varieties>
+			<whites>
+				<variety>Chenin</variety>
+				<variety>White Grenache</variety>
+				<variety>Macabeo</variety>
+				<variety>Big grape muscatel</variety>
+				<variety>Little grape muscatel</variety>
+				<variety>Pansal</variety>
+				<variety>Pedro Ximénez</variety>
+				<variety>White Picapoll</variety>
+				<variety>Viognier</variety>
+			</whites>
+			<reds>
+				<variety>Cabernet franc</variety>
+				<variety>Cabernet sauvignon</variety>
+				<variety>Hairy Grenache</variety>
+				<variety>Red Grenache</variety>
+				<variety>Merlot</variety>
+				<variety>Red Picapoll</variety>
+				<variety>Pinot noir</variety>
+				<variety>Carignan</variety>
+				<variety>Syrah</variety>
+				<variety>Ull de llebre - Tempranillo</variety>
+			</reds>
+		</varieties>
+		<conditions tipus="url">http://incavi.gencat.cat/web/.content/or_organismes/or01_incavi/or01_02_denominacions_origen/documents/fitxers_estatics/dop_priorat_pliegocondiciones.pdf</conditions>
+	</denomination>
+	<denomination>
+		<id>10</id>
+		<doname>DO Tarragona</doname>
+		<council-address>
+			<name>Consell Regulador de la Denominació d'Origen Tarragona</name>
+			<postal-address>c/ de la Cort, 41</postal-address>
+			<cp>43800</cp>
+			<town>Valls</town>
+			<province>Tarragona</province>
+			<email>info@dotarragona.cat</email>
+			<web>http://www.dotarragona.cat</web>
+		</council-address>
+		<description>The Camp de Tarragona and much of the Ribera d'Ebre form the current Tarragona, a mention that, in the case of wine, coincides with the establishment of the Roman Empire. The good conditions for the cultivation of the vineyard incardinated this area with the wine tradition.
+The southern band is flat and inland. The northern part is of low mountain, it is born to the sea and it extends until the coastal mountain range.
+The climate is temperate, of Mediterranean color, without extreme changes of temperature. Rainfall is very irregular, with precipitations concentrated in early autumn.
+It is characterized by the diversity of wines, with predominance of whites over Reds and Pinks.
+The white wines are of moderate graduation, fruity aromas and a marked and pleasant body.
+pinks are thin, fresh and elegant. The Red, corporal, light, warm and fleshy.
+Sweet liquor and dry rancid wines present aromas and flavors. The Tarragona Classic, excellence in the area, and the mass wine are outstanding.
+		</description>
+		<vineyard-area measure="ha">4560</vineyard-area>
+		<registered-winegrowers>1367</registered-winegrowers>
+		<registered-wineries total="52">
+			<winery>Adernats - Catedral del Vi</winery>
+			<winery>Agrícola de Bràfim</winery>
+			<winery>Biopaumerà</winery>
+			<winery>Castell d'Or</winery>
+			<winery>Celler 9+</winery>
+			<winery>Celler Antoni Sanchez Ortiz</winery>
+			<winery>Celler Bonretorn</winery>
+			<winery>Celler Cooperatiu de Vila-Rodona</winery>
+			<winery>Celler Cooperatiu Sant Jaume de Benissanet</winery>
+			<winery>Celler Mas Bella</winery>
+			<winery>Celler Mas dels Frares, Facultat d'Enologia de Tarragona</winery>
+			<winery>Celler Pedrola </winery>
+			<winery>Celler Serra de Llaberia </winery>
+			<winery>Celler Sort Del Castell </winery>
+			<winery>Cellers Blanch </winery>
+			<winery>Cellers Unió </winery>
+			<winery>Cooperativa de Salomó </winery>
+			<winery>De Muller </winery>
+			<winery>Emilio Miró Salvat</winery>
+			<winery>Estol Verd Celler </winery>
+			<winery>Lafarineravins </winery>
+			<winery>Mas del Botó </winery>
+			<winery>Mas Vicenç </winery>
+			<winery>Molí de Rué </winery>
+			<winery>Padró i Familia </winery>
+			<winery>Societat Agrícola de Valls </winery>
+			<winery>Viña Tridado </winery>
+			<winery>Vins i Caves Vives Ambròs </winery>
+			<winery>Vins Suñer </winery>
+			<winery>Vinya Janine </winery>
+			<winery>Vinyes del Terrer </winery>
+		</registered-wineries>
+		<production measure="hl">18375</production>
+		<varieties>
+			<whites>
+				<variety>Chardonnay</variety>
+				<variety>White Chenin</variety>
+				<variety>White Grenache</variety>
+				<variety>Macabeo</variety>
+				<variety>Big grape muscatel</variety>
+				<variety>Little grape muscatel</variety>
+				<variety>Parellada</variety>
+				<variety>Pedro Ximénez</variety>
+				<variety>White Sauvignon</variety>
+			</whites>
+			<reds>
+				<variety>Cabernet franc</variety>
+				<variety>Cabernet sauvignon</variety>
+				<variety>Hairy Grenache</variety>
+				<variety>Red Grenache</variety>
+				<variety>Tinting Grenache</variety>
+				<variety>Merlot</variety>
+				<variety>Carignan </variety>
+				<variety>Syrah </variety>
+				<variety>Ull de llebre - Tempranillo</variety>
+			</reds>
+		</varieties>
+		<conditions tipus="url">http://incavi.gencat.cat/web/.content/or_organismes/or01_incavi/or01_02_denominacions_origen/documents/fitxers_estatics/dop_tarragona_pliegocondiciones.pdf</conditions>
+	</denomination>
+	<denomination>
+		<id>11</id>
+		<doname>DO Terra Alta</doname>
+		<council-address>
+			<name>Consell Regulador de la Denominació d'Origen Terra Alta </name>
+			<postal-address>Ctra. Vilalba, 31</postal-address>
+			<cp>43780</cp>
+			<town>Gandesa</town>
+			<province>Tarragona</province>
+			<email>info@doterraalta.com</email>
+			<web>http://www.doterraalta.com</web>
+		</council-address>
+		<description>The hills and the depression of the Ebro river form a spectacular landscape in this southern region. The vine grows in the flat parts and the deep valleys of the dry valleys. It is planted in natural terraces, in very permeable areas that allow good drainage.
+The climate is Mediterranean with a strong continental influence, rains are scarce and strong sunlight.
+These characteristics are optimal for the production of quality wines, and Terra Alta is working to locate its elaborations, known historically, among the most prestigious.
+White wines like Macabeo and Grenache varieties predominate. They are powerful and very Mediterranean, lightweight, with fine palate and peculiar taste.
+The pinks and the Reds, structured and with personality, are elaborated with Carignan, Red Grenache and Hairy Grenache, matched with Tempranillo. pinks are tasty and permanent in the mouth. The Red, sober, with body and very complex.
+		</description>
+		<vineyard-area measure="ha">5820</vineyard-area>
+		<registered-winegrowers>1251</registered-winegrowers>
+		<registered-wineries total="49">
+			<winery>Agrària Sant Salvador d'Horta</winery>
+			<winery>Altavins Viticultors</winery>
+			<winery>Andreu Roca Vaqué</winery>
+			<winery>Agrícola Sant Isidre</winery>
+			<winery>Agrícola Corbera d'Ebre</winery>
+			<winery>Antonio Vallespí Guarí</winery>
+			<winery>Sant Josep Vins</winery>
+			<winery>Antonio Vilanova Valen</winery>
+			<winery>Vins del Tros</winery>
+			<winery>Bernaví</winery>
+			<winery>Bodegas Cortiella</winery>
+			<winery>Celler Cal Menescal</winery>
+			<winery>Bodegas Pinord</winery>
+			<winery>Celler Batea</winery>
+			<winery>Caterra</winery>
+			<winery>Celler Coma d'En Bonet</winery>
+			<winery>Celler Aubarca</winery>
+			<winery>Celler Bàrbara Forés</winery>
+			<winery>Celler Frisach</winery>
+			<winery>Celler Josep Vicens</winery>
+			<winery>Celler Xavier Clua</winery>
+			<winery>Ecovitres</winery>
+			<winery>Celler Mariol</winery>
+			<winery>Celler Germans Balar</winery>
+			<winery>Cellers Tarroné</winery>
+			<winery>Celler Piñol</winery>
+			<winery>Cellers Unió</winery>
+			<winery>Edetària</winery>
+			<winery>Covilalba</winery>
+			<winery>Celler Cooperatiu Gandesa</winery>
+			<winery>Herencia Altés</winery>
+			<winery>Ea Gandesa</winery>
+			<winery>Jordi Miró Diego</winery>
+			<winery>La Vinícola de Gandesa</winery>
+			<winery>Lafou Celler</winery>
+			<winery>Miguel Torres</winery>
+			<winery>Pagos de Híbera</winery>
+			<winery>Serra de Cavalls</winery>
+			<winery>Vins Algars</winery>
+			<winery>Vins La Botera</winery>
+			<winery>Vins Maijó</winery>
+			<winery>Vins Valen</winery>
+			<winery>Viña Tridado</winery>
+			<winery>Viticultors Bateans</winery>
+			<winery>Vins Mas Sersal</winery>
+			<winery>Pedro Massana</winery>
+			<winery>Vins i Olis Rosendo Esteve Meix</winery>
+			<winery>Celler Essència</winery>
+			<winery>La Bruixa Dels Mudèfers</winery>
+			<winery>Celler Terra i Vins</winery>
+			<winery>Celler Ronadelles</winery>
+			<winery>Vins i Catalonia</winery>
+			<winery>Cofama Vins i Caves</winery>
+			<winery>Celler Rialla</winery>
+			<winery>Serra i Barceló</winery>
+			<winery>Ramón Andreu</winery>
+			<winery>Celler Alimara</winery>
+		</registered-wineries>
+		<production measure="hl">50317.71</production>
+		<varieties>
+			<whites>
+				<variety>Chardonnay</variety>
+				<variety>White Chenin</variety>
+				<variety>White Grenache</variety>
+				<variety>Macabeo</variety>
+				<variety>Big grape muscatel </variety>
+				<variety>Little grape muscatel </variety>
+				<variety>Parellada</variety>
+				<variety>Pedro Ximénez</variety>
+				<variety>White Sauvignon</variety>
+			</whites>
+			<reds>
+				<variety>Cabernet franc</variety>
+				<variety>Cabernet sauvignon</variety>
+				<variety>Hairy Grenache</variety>
+				<variety>Red Grenache</variety>
+				<variety>Tinting Grenache</variety>
+				<variety>Merlot</variety>
+				<variety>Carignan </variety>
+				<variety>Syrah</variety>
+				<variety>Ull de llebre - Tempranillo</variety>
+			</reds>
+		</varieties>
+		<conditions tipus="url">http://incavi.gencat.cat/web/.content/or_organismes/or01_incavi/or01_02_denominacions_origen/documents/fitxers_estatics/dop_terraalta_pliegocondiciones.pdf</conditions>
+	</denomination>
+</catalunya-do>
